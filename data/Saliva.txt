@@ -1,0 +1,16 @@
+TaxName	species	Abundance	SampleCategory	frequency	rank
+Rothia mucilaginosa	43675	9.86107758812	Caries	10.0	1.0
+Veillonella atypica	39777	7.03084402971	Caries	10.0	2.0
+Prevotella histicola	470565	6.43344909512	Caries	10.0	3.0
+Veillonella dispar	39778	5.00873469712	Caries	10.0	4.0
+Streptococcus salivarius	1304	4.65360312118	Caries	10.0	5.0
+Rothia mucilaginosa	43675	10.5214318712	Healthy	10.0	1.0
+Prevotella histicola	470565	5.22461408694	Healthy	10.0	2.0
+Veillonella atypica	39777	4.79201119323	Healthy	10.0	3.0
+Prevotella melaninogenica	28132	4.04239454278	Healthy	10.0	4.0
+Veillonella dispar	39778	3.9700568337	Healthy	10.0	5.0
+Rothia mucilaginosa	43675	7.27340742555	Perio	9.0	1.0
+Prevotella melaninogenica	28132	4.67306307533	Perio	10.0	2.0
+Veillonella atypica	39777	4.40123041515	Perio	10.0	3.0
+Prevotella histicola	470565	4.32894352888	Perio	10.0	4.0
+Veillonella dispar	39778	3.83522765222	Perio	10.0	5.0

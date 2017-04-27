@@ -1,0 +1,113 @@
+##########################################################################################
+# CBioVikings
+http://cbiovikings.org/
+
+# git repository for this event
+https://github.com/dblyon/PandasIntro
+
+##########################################################################################
+##### INSTALLATION
+### Program prerequisites:
+1.) Git
+https://git-scm.com/
+2.) Python (2.x or 3.x) or Anaconda (Python and other commonly used packages)
+https://www.python.org/
+https://www.continuum.io/downloads
+
+The following Python packages can be installed using "pip" (a Python package manager)
+or found at "pypi" as well as individual web-sites.
+https://pip.pypa.io/en/stable/installing/
+https://pypi.python.org
+EASY INSTALLATION using pip:
+enter the following in the terminal to install 3 packages at once including all dependencies 
+"pip install ipython jupyter numpy pandas"
+(if pip is not available write the following:
+"easy_install pip")
+3.) IPython and Jupyter
+http://jupyter.readthedocs.org/en/latest/install.html
+4.) Numpy
+http://www.numpy.org/
+5.) Pandas
+http://pandas.pydata.org/
+
+##########################################################################################
+##### CUSTOMIZATION
+### Customize IPython and Notebook
+# execute in terminal
+ipython profile create
+
+##### set CELL WIDTH to 90% of window
+# Customize by modifying 
+~/.jupyter/custom.css
+# previously was in 
+# ~/.ipython/profile_default/static/custom/custom.css
+.container { width:90% !important; }
+
+##### dark theme and other themes for the Jupyter notebook
+https://github.com/dunovank/jupyter-themes.git
+
+###############################################################################
+####### RESOURCES used for this workshop
+##### Pandas
+#### Book by Wes McKinney
+http://shop.oreilly.com/product/0636920023784.do
+#### Pandas website
+http://pandas.pydata.org/
+
+#### Very good, but long tutorial.
+https://github.com/fonnesbeck/statistical-analysis-python-tutorial
+https://www.youtube.com/watch?v=DXPwSiRTxYY
+
+### exploratory computing with Python
+http://mbakker7.github.io/exploratory_computing_with_python/
+
+### Intro to pandas data structures
+http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
+
+### Jupyter
+http://jupyter.org/
+
+### Pandas cheat sheet
+https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
+
+### Exercises
+https://github.com/fonnesbeck/statistical-analysis-python-tutorial
+https://github.com/guipsamora/pandas_exercises
+https://github.com/ajcr/100-pandas-puzzles
+http://gregreda.com/2013/10/26/working-with-pandas-dataframes/
+http://pandas.pydata.org/
+
+##########################################################################################
+##### Markdown syntax for the Notebook
+https://sourceforge.net/p/ipython/discussion/markdown_syntax
+
+#### TOC within Jupyter Notebooks
+https://github.com/kmahelona/ipython_notebook_goodies/blob/gh-pages/ipython_notebook_toc.js
+
+###############################################################################
+##### IPYTHON
+### Debugging
+# import ipdb; ipdb.set_trace()
+http://stackoverflow.com/questions/16867347/step-by-step-debugging-with-ipython
+
+##### IPython tutorial
+http://ipython.org/ipython-doc/stable/interactive/tutorial.html
+
+### IPython beyond plain Python 
+https://github.com/jupyter/ngcm-tutorial/blob/master/Day-1/IPython%20Kernel/Beyond%20Plain%20Python.ipynb
+
+### Feather: exchanging data between Python and R
+https://blog.rstudio.org/2016/03/29/feather/
+
+### Interactive data visualization
+http://nbviewer.jupyter.org/gist/walkerke/2e7153fcccc545aa1656
+
+##################################################################
+### Python 2 & Python 3 in the Notebook
+http://stackoverflow.com/questions/28831854/how-do-i-add-python3-kernel-to-jupyter-ipython
+http://stackoverflow.com/questions/30492623/using-both-python-2-x-and-python-3-x-in-ipython-notebook
+
+
+
+
+
