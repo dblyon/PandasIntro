@@ -60,6 +60,7 @@ http://pandas.pydata.org/
 
 ## Very good (and long) tutorial.
 https://github.com/fonnesbeck/statistical-analysis-python-tutorial
+
 https://www.youtube.com/watch?v=DXPwSiRTxYY
 
 ## Book by Wes McKinney
