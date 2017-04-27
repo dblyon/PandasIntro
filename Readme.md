@@ -54,32 +54,32 @@ http://matplotlib.org/
 http://www.python-excel.org/
 
 
-**RESOURCES used for this workshop**
-# Book by Wes McKinney
-http://shop.oreilly.com/product/0636920023784.do
-
-# Pandas website
+# **RESOURCES used for this workshop**
+## Pandas website
 http://pandas.pydata.org/
 
-# Very good, but long tutorial.
+## Very good (and long) tutorial.
 https://github.com/fonnesbeck/statistical-analysis-python-tutorial
 https://www.youtube.com/watch?v=DXPwSiRTxYY
 
-# exploratory computing with Python
-http://mbakker7.github.io/exploratory_computing_with_python/
+## Book by Wes McKinney
+http://shop.oreilly.com/product/0636920023784.do
 
-# Intro to pandas data structures
-http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
-
-# Jupyter
-http://jupyter.org/
-
-# Pandas cheat sheet
+## Pandas cheat sheet
 https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
 
-# Exercises
+## Exercises
 https://github.com/fonnesbeck/statistical-analysis-python-tutorial
 https://github.com/guipsamora/pandas_exercises
 https://github.com/ajcr/100-pandas-puzzles
 http://gregreda.com/2013/10/26/working-with-pandas-dataframes/
 http://pandas.pydata.org/
+
+## Jupyter
+http://jupyter.org/
+
+## exploratory computing with Python
+http://mbakker7.github.io/exploratory_computing_with_python/
+
+## Intro to pandas data structures
+http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
