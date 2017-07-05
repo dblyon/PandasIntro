@@ -85,7 +85,6 @@ http://mbakker7.github.io/exploratory_computing_with_python/
 ## Intro to pandas data structures
 http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
 
-## PyCon 2017: Optimizing Pandas Code for Performance (nice talk by Sofia Heisler)
-https://github.com/sversh/pycon2017-optimizing-pandas/
+## PyCon 2017: Optimizing Pandas Code for Performance (talk by Sofia Heisler)
+https://github.com/sversh/pycon2017-optimizing-pandas
 https://www.youtube.com/watch?v=HN5d490_KKk&index=9&list=WL
-
